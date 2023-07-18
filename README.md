@@ -1,12 +1,11 @@
-# 💻 SistemaPedidos  [![GitHub Repo stars](https://img.shields.io/github/stars/lnxxxxxxxx/SistemaPedidos?style=social)](https://github.com/lnxxxxxxxx/SistemaPedidos/stargazers)
-
-``````<iframe width="560" height="315" src="https://www.youtube.com/embed/9t8oZWYbJ9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>``````
-
-### SistemaPedidos Full stack Java CaC FINAL TP 
-#### JavaScript,HTML,CSS/Java,Springboot,SpringSecurity,Hibernate,MySQL,Postman.
+# <h2 align="center">💻 SistemaPedidos  </h2>  [![GitHub Repo stars](https://img.shields.io/github/stars/lnxxxxxxxx/SistemaPedidos?style=social)](https://github.com/lnxxxxxxxx/SistemaPedidos/stargazers) 
 
   
-  [Video Presentacion](https://youtu.be/9t8oZWYbJ9E)
+<h2 align="center">SistemaPedidos Full stack Java CaC FINAL TP </h2>
+<h3 align="center">JavaScript,HTML,CSS/Java,Springboot,SpringSecurity,Hibernate,MySQL,Postman. </h3>
+
+
+  
   
 
   
@@ -36,7 +35,7 @@ If not, I'll leave the sql script here- [import this sql](https://github.com/lnx
  
 
 ## 🔧 Usage
-  
+  [VIDEO DEL PROYECTO ](https://youtu.be/9t8oZWYbJ9E)
   1. Register the user.
   2. Login the user.
   3. If you are ADMIN you can access all the data.
