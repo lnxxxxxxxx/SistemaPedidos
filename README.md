@@ -35,7 +35,7 @@ If not, I'll leave the sql script here- [import this sql](https://github.com/lnx
  
 
 ## 🔧 Usage
-  [VIDEO DEL PROYECTO ](https://youtu.be/9t8oZWYbJ9E)
+  [VIDEO DEL PROYECTO ](https://youtu.be/dPxu_taNW_I)
   1. Register the user.
   2. Login the user.
   3. If you are ADMIN you can access all the data.
